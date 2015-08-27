@@ -1,6 +1,6 @@
 {
   "name": "koa-brute",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "express-brute compatible middleware for koa",
   "main": "index.js",
   "dependencies": {
