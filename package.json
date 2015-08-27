@@ -4,9 +4,9 @@
   "description": "express-brute compatible middleware for koa",
   "main": "index.js",
   "dependencies": {
-    "bluebird": "^2.9.30",
+    "bluebird": "^2.9.34",
     "debug": "^2.2.0",
-    "lodash": "^3.9.3"
+    "lodash": "^3.10.1"
   },
   "devDependencies": {},
   "scripts": {
